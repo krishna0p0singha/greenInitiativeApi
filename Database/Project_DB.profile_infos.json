@@ -1,0 +1,227 @@
+[{
+  "_id": {
+    "$oid": "663d2451173416a4eaa065e9"
+  },
+  "user": {
+    "username": "krishnaps007",
+    "name": "krishna prasad",
+    "email": "krishnasingha891@gmail.com",
+    "password": "1234",
+    "accountType": "PUBLIC",
+    "uniqueID": "krishnaps007@7cc1a3b3-1f84-491f-a2bf-a57b1860e761@1715282972924",
+    "groupList": [],
+    "followList": [
+      {
+        "fileOwnerUniqueID": "muktada@a374d540-6f08-4c2a-a329-bf10f0aad807@1715315009930",
+        "followStatus": true,
+        "_id": {
+          "$oid": "6642205a8176001917403c3d"
+        }
+      },
+      {
+        "fileOwnerUniqueID": "argha@e100d94e-3a47-4cc2-b8d0-f4f9bf77161d@1715315009930",
+        "followStatus": true,
+        "_id": {
+          "$oid": "664220788176001917403dfd"
+        }
+      },
+      {
+        "fileOwnerUniqueID": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029",
+        "followStatus": true,
+        "_id": {
+          "$oid": "6658406d14dd6adc46618cf8"
+        }
+      }
+    ],
+    "followerList": []
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d26db936ab8231df6c194"
+  },
+  "user": {
+    "username": "prasad123",
+    "name": "krishna",
+    "email": "prasad@gmail.com",
+    "password": "1234",
+    "accountType": "PUBLIC",
+    "uniqueID": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029",
+    "groupList": [],
+    "followList": [
+      {
+        "fileOwnerUniqueID": "krishnaps007@7cc1a3b3-1f84-491f-a2bf-a57b1860e761@1715282972924",
+        "followStatus": true,
+        "_id": {
+          "$oid": "663da1e190dbcb9c0b777802"
+        }
+      }
+    ],
+    "followerList": []
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db4c090dbcb9c0b777ec0"
+  },
+  "user": {
+    "username": "kishalay",
+    "name": "Kishalay Ghosh",
+    "email": "kishalayghosh02@gmail.com",
+    "password": "1234",
+    "accountType": "PRIVATE",
+    "uniqueID": "kishalay@795d5cff-c354-4cea-ba32-2ddbdf7838d5@1715315009930",
+    "groupList": [],
+    "followList": [
+      {
+        "fileOwnerUniqueID": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029",
+        "followStatus": true,
+        "_id": {
+          "$oid": "663db50c90dbcb9c0b777fc7"
+        }
+      },
+      {
+        "fileOwnerUniqueID": "krishnaps007@7cc1a3b3-1f84-491f-a2bf-a57b1860e761@1715282972924",
+        "followStatus": true,
+        "_id": {
+          "$oid": "663db53690dbcb9c0b7780b6"
+        }
+      },
+      {
+        "fileOwnerUniqueID": "argha@e100d94e-3a47-4cc2-b8d0-f4f9bf77161d@1715315009930",
+        "followStatus": true,
+        "_id": {
+          "$oid": "663db8f690dbcb9c0b778dca"
+        }
+      },
+      {
+        "fileOwnerUniqueID": "argha@e100d94e-3a47-4cc2-b8d0-f4f9bf77161d@1715315009930",
+        "followStatus": true,
+        "_id": {
+          "$oid": "663dbcab97fdfb4f9dae96d1"
+        }
+      }
+    ],
+    "followerList": []
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db65290dbcb9c0b778414"
+  },
+  "user": {
+    "username": "argha",
+    "name": "Argha",
+    "email": "ar.arghaghosh@gmail.com",
+    "password": "1234",
+    "accountType": "PUBLIC",
+    "uniqueID": "argha@e100d94e-3a47-4cc2-b8d0-f4f9bf77161d@1715315009930",
+    "groupList": [],
+    "followList": [],
+    "followerList": []
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dbac490dbcb9c0b7793ab"
+  },
+  "user": {
+    "username": "aa",
+    "name": "Ghosh",
+    "email": "argha.g.2001@gmail.com",
+    "password": "1234",
+    "accountType": "PUBLIC",
+    "uniqueID": "aa@b8757a6d-fbbc-4aed-95f4-ebd73f651087@1715315009930",
+    "groupList": [],
+    "followList": [],
+    "followerList": []
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dbb0290dbcb9c0b7793bd"
+  },
+  "user": {
+    "username": "kpsingha",
+    "name": "K P Singha",
+    "email": "krishna@gmail.com",
+    "password": "1234",
+    "accountType": "PUBLIC",
+    "uniqueID": "kpsingha@9ea4603c-0042-423f-b3d0-8c7235618bfa@1715315009930",
+    "groupList": [],
+    "followList": [
+      {
+        "fileOwnerUniqueID": "muktada@a374d540-6f08-4c2a-a329-bf10f0aad807@1715315009930",
+        "followStatus": true,
+        "_id": {
+          "$oid": "663dc11597fdfb4f9daea0d0"
+        }
+      },
+      {
+        "fileOwnerUniqueID": "aa@b8757a6d-fbbc-4aed-95f4-ebd73f651087@1715315009930",
+        "followStatus": true,
+        "_id": {
+          "$oid": "663dc12e97fdfb4f9daea526"
+        }
+      }
+    ],
+    "followerList": []
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dbbe290dbcb9c0b77940c"
+  },
+  "user": {
+    "username": "Nur",
+    "name": "Nur ",
+    "email": "nur@gmail.com",
+    "password": "1234",
+    "accountType": "PUBLIC",
+    "uniqueID": "Nur@880dd8ab-6c12-4fd5-b8c1-66e41977132a@1715315009930",
+    "groupList": [],
+    "followList": [],
+    "followerList": []
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dbc7390dbcb9c0b77993b"
+  },
+  "user": {
+    "username": "muktada",
+    "name": "Muktada",
+    "email": "muktada@gmail.com",
+    "password": "1234",
+    "accountType": "PUBLIC",
+    "uniqueID": "muktada@a374d540-6f08-4c2a-a329-bf10f0aad807@1715315009930",
+    "groupList": [],
+    "followList": [],
+    "followerList": []
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dccb71448af69ab2f9162"
+  },
+  "user": {
+    "username": "tecb1",
+    "name": "kishalay ghosh",
+    "email": "tidingstech@gmail.com",
+    "password": "1234",
+    "accountType": "PUBLIC",
+    "uniqueID": "tecb1@ce5f274a-0e33-4197-9f9a-2c1178f3aa4e@1715326054821",
+    "groupList": [],
+    "followList": [],
+    "followerList": []
+  },
+  "__v": 0
+}]

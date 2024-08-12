@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "663d2451173416a4eaa065f4"
+  },
+  "userUniqueId": "krishnaps007@7cc1a3b3-1f84-491f-a2bf-a57b1860e761@1715282972924",
+  "totalBalance": 0,
+  "transactionList": [],
+  "donateAmount": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d26db936ab8231df6c19f"
+  },
+  "userUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029",
+  "totalBalance": 0,
+  "transactionList": [],
+  "donateAmount": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db4c190dbcb9c0b777ecb"
+  },
+  "userUniqueId": "kishalay@795d5cff-c354-4cea-ba32-2ddbdf7838d5@1715315009930",
+  "totalBalance": 0,
+  "transactionList": [],
+  "donateAmount": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db65290dbcb9c0b77841f"
+  },
+  "userUniqueId": "argha@e100d94e-3a47-4cc2-b8d0-f4f9bf77161d@1715315009930",
+  "totalBalance": 0,
+  "transactionList": [],
+  "donateAmount": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dbac490dbcb9c0b7793b6"
+  },
+  "userUniqueId": "aa@b8757a6d-fbbc-4aed-95f4-ebd73f651087@1715315009930",
+  "totalBalance": 0,
+  "transactionList": [],
+  "donateAmount": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dbb0290dbcb9c0b7793c8"
+  },
+  "userUniqueId": "kpsingha@9ea4603c-0042-423f-b3d0-8c7235618bfa@1715315009930",
+  "totalBalance": 0,
+  "transactionList": [],
+  "donateAmount": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dbbe290dbcb9c0b779417"
+  },
+  "userUniqueId": "Nur@880dd8ab-6c12-4fd5-b8c1-66e41977132a@1715315009930",
+  "totalBalance": 0,
+  "transactionList": [],
+  "donateAmount": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dbc7390dbcb9c0b779946"
+  },
+  "userUniqueId": "muktada@a374d540-6f08-4c2a-a329-bf10f0aad807@1715315009930",
+  "totalBalance": 0,
+  "transactionList": [],
+  "donateAmount": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dccb71448af69ab2f916d"
+  },
+  "userUniqueId": "tecb1@ce5f274a-0e33-4197-9f9a-2c1178f3aa4e@1715326054821",
+  "totalBalance": 0,
+  "transactionList": [],
+  "donateAmount": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663de84aacf0d94d72b49fb4"
+  },
+  "userUniqueId": "hnk123@a376c0bd-76ec-401a-b4d5-7e211aad6ef0@1715331036447",
+  "totalBalance": 0,
+  "transactionList": [],
+  "donateAmount": [],
+  "__v": 0
+}]

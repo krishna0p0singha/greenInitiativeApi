@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "663da8f690dbcb9c0b7778c8"
+  },
+  "creatorUniqueId": "krishnaps007@7cc1a3b3-1f84-491f-a2bf-a57b1860e761@1715282972924",
+  "playlistUniqueId": "krishnaps007@7cc1a3b3-1f84-491f-a2bf-a57b1860e761@1715282972924@1715315009924",
+  "playlistName": "Playlist 1",
+  "contentList": [
+    {
+      "ContentUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029_1715315009970_b1a7ee10-f071-4852-a316-16f538ad003f",
+      "_id": {
+        "$oid": "663da8fe90dbcb9c0b7778d9"
+      }
+    },
+    {
+      "ContentUniqueId": "muktada@a374d540-6f08-4c2a-a329-bf10f0aad807@1715315009930_1715322027087_08a45c21-c19c-40d6-bc6a-7970caf8d005",
+      "_id": {
+        "$oid": "66581de8e98cb143d15b3e1e"
+      }
+    },
+    {
+      "ContentUniqueId": "aa@b8757a6d-fbbc-4aed-95f4-ebd73f651087@1715315009930_1715315009970_fd9d2fc0-7a96-499c-96cd-752aad4b18f2",
+      "_id": {
+        "$oid": "66581e00e98cb143d15b3f79"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663da91b90dbcb9c0b7778fd"
+  },
+  "creatorUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029",
+  "playlistUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029@1715315009924",
+  "playlistName": "Playlist 1",
+  "contentList": [
+    {
+      "ContentUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029_1715315009970_b1a7ee10-f071-4852-a316-16f538ad003f",
+      "_id": {
+        "$oid": "663da92590dbcb9c0b77790e"
+      }
+    },
+    {
+      "ContentUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029_1715315009970_9644812f-2085-45ac-9705-2c61efe447c4",
+      "_id": {
+        "$oid": "663da92d90dbcb9c0b77792c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db4e290dbcb9c0b777f35"
+  },
+  "creatorUniqueId": "kishalay@795d5cff-c354-4cea-ba32-2ddbdf7838d5@1715315009930",
+  "playlistUniqueId": "kishalay@795d5cff-c354-4cea-ba32-2ddbdf7838d5@1715315009930@1715315009924",
+  "playlistName": "playlist 1",
+  "contentList": [
+    {
+      "ContentUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029_1715315009970_b1a7ee10-f071-4852-a316-16f538ad003f",
+      "_id": {
+        "$oid": "663db4ec90dbcb9c0b777f47"
+      }
+    },
+    {
+      "ContentUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029_1715283417078_d77bc1db-2dde-4a40-b4c7-9d29674b6c2e",
+      "_id": {
+        "$oid": "663db81590dbcb9c0b7786d7"
+      }
+    },
+    {
+      "ContentUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029_1715283417078_d77bc1db-2dde-4a40-b4c7-9d29674b6c2e",
+      "_id": {
+        "$oid": "663db83290dbcb9c0b77872d"
+      }
+    },
+    {
+      "ContentUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029_1715315009970_9644812f-2085-45ac-9705-2c61efe447c4",
+      "_id": {
+        "$oid": "663db84c90dbcb9c0b778794"
+      }
+    },
+    {
+      "ContentUniqueId": "krishnaps007@7cc1a3b3-1f84-491f-a2bf-a57b1860e761@1715282972924_1715282972961_2616c296-3ea2-454d-a4b3-97b8a3e1bb89",
+      "_id": {
+        "$oid": "663db87b90dbcb9c0b778829"
+      }
+    },
+    {
+      "ContentUniqueId": "kpsingha@9ea4603c-0042-423f-b3d0-8c7235618bfa@1715315009930_1715322027087_011eeeec-2297-4d98-a3c4-838994e73e14",
+      "_id": {
+        "$oid": "663dc12097fdfb4f9daea2d2"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db80f90dbcb9c0b7786af"
+  },
+  "creatorUniqueId": "kishalay@795d5cff-c354-4cea-ba32-2ddbdf7838d5@1715315009930",
+  "playlistUniqueId": "kishalay@795d5cff-c354-4cea-ba32-2ddbdf7838d5@1715315009930@1715315009924",
+  "playlistName": "playlist 2",
+  "contentList": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db86c90dbcb9c0b7787c8"
+  },
+  "creatorUniqueId": "kishalay@795d5cff-c354-4cea-ba32-2ddbdf7838d5@1715315009930",
+  "playlistUniqueId": "kishalay@795d5cff-c354-4cea-ba32-2ddbdf7838d5@1715315009930@1715315009924",
+  "playlistName": "playlist 1",
+  "contentList": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dc93797fdfb4f9daeb2ea"
+  },
+  "creatorUniqueId": "kpsingha@9ea4603c-0042-423f-b3d0-8c7235618bfa@1715315009930",
+  "playlistUniqueId": "kpsingha@9ea4603c-0042-423f-b3d0-8c7235618bfa@1715315009930@1715322027056",
+  "playlistName": "1234",
+  "contentList": [
+    {
+      "ContentUniqueId": "kpsingha@9ea4603c-0042-423f-b3d0-8c7235618bfa@1715315009930_1715315009970_2adc9e4d-0af1-42f7-bf20-9b8f9076e353",
+      "_id": {
+        "$oid": "663dc93f97fdfb4f9daeb312"
+      }
+    },
+    {
+      "ContentUniqueId": "kpsingha@9ea4603c-0042-423f-b3d0-8c7235618bfa@1715315009930_1715315009970_2adc9e4d-0af1-42f7-bf20-9b8f9076e353",
+      "_id": {
+        "$oid": "663dc96997fdfb4f9daeb38c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dc95797fdfb4f9daeb327"
+  },
+  "creatorUniqueId": "kpsingha@9ea4603c-0042-423f-b3d0-8c7235618bfa@1715315009930",
+  "playlistUniqueId": "kpsingha@9ea4603c-0042-423f-b3d0-8c7235618bfa@1715315009930@1715322027056",
+  "playlistName": "12",
+  "contentList": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66581ea2e98cb143d15b4137"
+  },
+  "creatorUniqueId": "krishnaps007@7cc1a3b3-1f84-491f-a2bf-a57b1860e761@1715282972924",
+  "playlistUniqueId": "krishnaps007@7cc1a3b3-1f84-491f-a2bf-a57b1860e761@1715282972924@1717050479872",
+  "playlistName": "Playlist 2",
+  "contentList": [
+    {
+      "ContentUniqueId": "muktada@a374d540-6f08-4c2a-a329-bf10f0aad807@1715315009930_1715322027087_08a45c21-c19c-40d6-bc6a-7970caf8d005",
+      "_id": {
+        "$oid": "66581eace98cb143d15b4246"
+      }
+    },
+    {
+      "ContentUniqueId": "prasad123@338d21b5-3e9c-402c-9584-bb1b48739d76@1715283417029_1715283417078_d77bc1db-2dde-4a40-b4c7-9d29674b6c2e",
+      "_id": {
+        "$oid": "66581ec4e98cb143d15b4467"
+      }
+    }
+  ],
+  "__v": 0
+}]
