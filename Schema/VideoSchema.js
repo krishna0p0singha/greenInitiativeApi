@@ -1,0 +1,95 @@
+const { default: mongoose, model } = require("mongoose");
+
+const Video_info =new mongoose.Schema({
+    contentUniqueID:{
+        type:String,
+        required:true
+    },
+    fileOwnerUniqueID:{
+        type:String,
+        required:true
+    },
+    contentExecuteName:{
+        type:String,
+        required:true
+    },
+    uploadDate:{
+        type:String,
+        
+    },  
+    contentTittle:{
+        type:String,
+        required:true
+    },
+    contentDescription:{
+        type:String,
+        required:true
+    },
+    audienceType:{
+        type:String,
+        required:true
+    },
+ 
+    reactions:{
+        happy:[
+            {
+                userUniqueID:{type:String}
+            }
+        ],
+        sad:[
+            {
+            userUniqueID:{type:String}
+        }
+        ],
+        love:[
+            {userUniqueID:{type:String}
+        }
+        ],
+        angry:[
+            {
+                userUniqueID:{type:String}
+        }
+        ],
+        wow:[
+            {
+                userUniqueID:{type:String}
+            }
+        ],
+        like:[
+            {
+                userUniqueID:{type:String}
+        }
+        ]
+    },
+    commentList:[
+        {
+            userUniqueID:{
+                type:String
+            },
+            commentText:{
+                type:String
+            }
+        }
+    ],
+    contentPath:{
+        type:String,
+        required:true
+    },
+    contentKeywords:{
+        type:Array
+    },
+    DonationList:[
+        {
+            userUniqueID:{
+                type:String
+            },
+            donateAmount:{
+                type:Number
+            }
+        }
+    ],
+   
+});
+const VideoInfo=mongoose.model('Video_info',Video_info);
+VideoInfo.createIndexes();
+module.exports={VideoInfo};
