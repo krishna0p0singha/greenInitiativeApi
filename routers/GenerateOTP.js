@@ -12,8 +12,8 @@ router.post('/generateotp',(req,res)=>{
                         if(!result){
                             try {
                                 var otpSend=[];
-                                        let Sender='cyber0bravo@gmail.com';
-                                        let psw='wbgbgxszpddnpbvu';
+                                        let Sender='emailaddress';//your own email address for sending 
+                                        let psw='password';//sending mail password
 
                                         sub="One Time Password";
 
